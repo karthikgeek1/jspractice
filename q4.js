@@ -3,4 +3,4 @@ let f=1
 for(let i=1; i<=n; i++){
     f=f*i 
 }
-console.log(fact)
+console.log(f)
